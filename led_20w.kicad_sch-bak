@@ -591,7 +591,7 @@
   (symbol (lib_id "2835 LED SMD:JB2835BWT-G-H40EA0000-N0000001") (at 129.54 110.49 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 1e13d6b0-17d8-4f6b-92bc-eb021880cd51)
-    (property "Reference" "LED5" (id 0) (at 137.16 100.33 0))
+    (property "Reference" "LED?" (id 0) (at 137.16 100.33 0))
     (property "Value" "JB2835BWT-G-H40EA0000-N0000001" (id 1) (at 137.16 102.87 0))
     (property "Footprint" "2835-library:JB2835BWTGH40EA0000N0000001" (id 2) (at 142.24 106.68 0)
       (effects (font (size 1.27 1.27)) (justify left bottom) hide)
@@ -630,7 +630,7 @@
   (symbol (lib_id "2835 LED SMD:JB2835BWT-G-H40EA0000-N0000001") (at 144.78 124.46 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 27a9d1e1-420e-4ba3-851a-0d64ecd77756)
-    (property "Reference" "LED6" (id 0) (at 137.16 114.3 0))
+    (property "Reference" "LED?" (id 0) (at 137.16 114.3 0))
     (property "Value" "JB2835BWT-G-H40EA0000-N0000001" (id 1) (at 137.16 116.84 0))
     (property "Footprint" "2835-library:JB2835BWTGH40EA0000N0000001" (id 2) (at 132.08 120.65 0)
       (effects (font (size 1.27 1.27)) (justify left bottom) hide)
@@ -669,7 +669,7 @@
   (symbol (lib_id "power:GND") (at 184.15 137.16 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 27f7733e-4704-40e7-9c45-a089cfe3fdd5)
-    (property "Reference" "#PWR0106" (id 0) (at 184.15 143.51 0)
+    (property "Reference" "#PWR?" (id 0) (at 184.15 143.51 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (id 1) (at 184.15 142.24 0))
@@ -763,7 +763,7 @@
   (symbol (lib_id "2835 LED SMD:JB2835BWT-G-H40EA0000-N0000001") (at 104.14 124.46 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 3f56a0eb-c219-4c1d-a17b-7410e1eff383)
-    (property "Reference" "LED4" (id 0) (at 96.52 114.3 0))
+    (property "Reference" "LED?" (id 0) (at 96.52 114.3 0))
     (property "Value" "JB2835BWT-G-H40EA0000-N0000001" (id 1) (at 96.52 116.84 0))
     (property "Footprint" "2835-library:JB2835BWTGH40EA0000N0000001" (id 2) (at 91.44 120.65 0)
       (effects (font (size 1.27 1.27)) (justify left bottom) hide)
@@ -802,7 +802,7 @@
   (symbol (lib_id "power:GND") (at 214.63 229.87 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 4d846c49-982c-4289-ae4f-53e45c0790b5)
-    (property "Reference" "#PWR0108" (id 0) (at 214.63 236.22 0)
+    (property "Reference" "#PWR?" (id 0) (at 214.63 236.22 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (id 1) (at 214.63 234.95 0))
@@ -818,7 +818,7 @@
   (symbol (lib_id "2835 LED SMD:JB2835BWT-G-H40EA0000-N0000001") (at 168.91 110.49 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 4db4a59c-fada-4171-b18f-1a067f42aac4)
-    (property "Reference" "LED7" (id 0) (at 176.53 100.33 0))
+    (property "Reference" "LED?" (id 0) (at 176.53 100.33 0))
     (property "Value" "JB2835BWT-G-H40EA0000-N0000001" (id 1) (at 176.53 102.87 0))
     (property "Footprint" "2835-library:JB2835BWTGH40EA0000N0000001" (id 2) (at 181.61 106.68 0)
       (effects (font (size 1.27 1.27)) (justify left bottom) hide)
@@ -1070,7 +1070,7 @@
   (symbol (lib_id "power:+24V") (at 146.05 83.82 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 7aa0a08b-89bd-458b-8257-da6cbcf5aef0)
-    (property "Reference" "#PWR0121" (id 0) (at 146.05 87.63 0)
+    (property "Reference" "#PWR?" (id 0) (at 146.05 87.63 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+24V" (id 1) (at 146.05 78.74 0))
@@ -1102,7 +1102,7 @@
   (symbol (lib_id "2835 LED SMD:JB2835BWT-G-H40EA0000-N0000001") (at 184.15 124.46 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 86eb168b-7396-4f91-9918-7be98c740008)
-    (property "Reference" "LED10" (id 0) (at 176.53 114.3 0))
+    (property "Reference" "LED?" (id 0) (at 176.53 114.3 0))
     (property "Value" "JB2835BWT-G-H40EA0000-N0000001" (id 1) (at 176.53 116.84 0))
     (property "Footprint" "2835-library:JB2835BWTGH40EA0000N0000001" (id 2) (at 171.45 120.65 0)
       (effects (font (size 1.27 1.27)) (justify left bottom) hide)
@@ -1141,7 +1141,7 @@
   (symbol (lib_id "2835 LED SMD:JB2835BWT-G-H40EA0000-N0000001") (at 88.9 110.49 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 885b7918-6fc0-4356-a9c4-4493dc8395b7)
-    (property "Reference" "LED3" (id 0) (at 96.52 100.33 0))
+    (property "Reference" "LED?" (id 0) (at 96.52 100.33 0))
     (property "Value" "JB2835BWT-G-H40EA0000-N0000001" (id 1) (at 96.52 102.87 0))
     (property "Footprint" "2835-library:JB2835BWTGH40EA0000N0000001" (id 2) (at 101.6 106.68 0)
       (effects (font (size 1.27 1.27)) (justify left bottom) hide)
@@ -1219,7 +1219,7 @@
   (symbol (lib_id "power:+24V") (at 185.42 83.82 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 8c668f54-25c9-46cd-85e7-98b37f5e2a01)
-    (property "Reference" "#PWR0118" (id 0) (at 185.42 87.63 0)
+    (property "Reference" "#PWR?" (id 0) (at 185.42 87.63 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+24V" (id 1) (at 185.42 78.74 0))
@@ -1251,7 +1251,7 @@
   (symbol (lib_id "power:GND") (at 306.07 137.16 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 948f79b1-0da4-425f-a4fb-aceb11be0fee)
-    (property "Reference" "#PWR0115" (id 0) (at 306.07 143.51 0)
+    (property "Reference" "#PWR?" (id 0) (at 306.07 143.51 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (id 1) (at 306.07 142.24 0))
@@ -1267,7 +1267,7 @@
   (symbol (lib_id "power:GND") (at 226.06 137.16 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 97ba3b00-e359-4523-9ceb-a0fa21e9dbb4)
-    (property "Reference" "#PWR0117" (id 0) (at 226.06 143.51 0)
+    (property "Reference" "#PWR?" (id 0) (at 226.06 143.51 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (id 1) (at 226.06 142.24 0))
@@ -1299,7 +1299,7 @@
   (symbol (lib_id "power:GND") (at 266.7 137.16 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid b276c9dd-f95e-4f4f-9be2-a04c71e65948)
-    (property "Reference" "#PWR0116" (id 0) (at 266.7 143.51 0)
+    (property "Reference" "#PWR?" (id 0) (at 266.7 143.51 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (id 1) (at 266.7 142.24 0))
@@ -1370,7 +1370,7 @@
   (symbol (lib_id "power:GND") (at 104.14 137.16 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid d70ba85b-a312-474b-a7c5-03eb6692b740)
-    (property "Reference" "#PWR0120" (id 0) (at 104.14 143.51 0)
+    (property "Reference" "#PWR?" (id 0) (at 104.14 143.51 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (id 1) (at 104.14 142.24 0))
@@ -1425,7 +1425,7 @@
   (symbol (lib_id "power:GND") (at 173.99 229.87 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid d765d175-778b-4249-a905-494b00f64859)
-    (property "Reference" "#PWR0111" (id 0) (at 173.99 236.22 0)
+    (property "Reference" "#PWR?" (id 0) (at 173.99 236.22 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (id 1) (at 173.99 234.95 0))
@@ -1441,7 +1441,7 @@
   (symbol (lib_id "power:+24V") (at 102.87 83.82 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid deebf056-fba9-4e97-83a2-b62a24668984)
-    (property "Reference" "#PWR0119" (id 0) (at 102.87 87.63 0)
+    (property "Reference" "#PWR?" (id 0) (at 102.87 87.63 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+24V" (id 1) (at 102.87 78.74 0))
@@ -1546,7 +1546,7 @@
   (symbol (lib_id "power:GND") (at 134.62 229.87 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid ee8376a4-af6e-47eb-94af-facab0cdc408)
-    (property "Reference" "#PWR0109" (id 0) (at 134.62 236.22 0)
+    (property "Reference" "#PWR?" (id 0) (at 134.62 236.22 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (id 1) (at 134.62 234.95 0))
@@ -1562,7 +1562,7 @@
   (symbol (lib_id "power:GND") (at 255.27 229.87 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid f0c08f10-def0-4da0-ba6a-939899510312)
-    (property "Reference" "#PWR0110" (id 0) (at 255.27 236.22 0)
+    (property "Reference" "#PWR?" (id 0) (at 255.27 236.22 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "" (id 1) (at 255.27 234.95 0))
@@ -1617,7 +1617,7 @@
   (symbol (lib_id "power:GND") (at 144.78 137.16 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid fd28b75c-5734-44e5-a079-dcc55d21e5e1)
-    (property "Reference" "#PWR0107" (id 0) (at 144.78 143.51 0)
+    (property "Reference" "#PWR?" (id 0) (at 144.78 143.51 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (id 1) (at 144.78 142.24 0))
@@ -1650,24 +1650,6 @@
     (path "/a07fcac5-0a19-4059-bc2d-3f12aacda053"
       (reference "#PWR0105") (unit 1) (value "+24V") (footprint "")
     )
-    (path "/27f7733e-4704-40e7-9c45-a089cfe3fdd5"
-      (reference "#PWR0106") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/fd28b75c-5734-44e5-a079-dcc55d21e5e1"
-      (reference "#PWR0107") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/4d846c49-982c-4289-ae4f-53e45c0790b5"
-      (reference "#PWR0108") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/ee8376a4-af6e-47eb-94af-facab0cdc408"
-      (reference "#PWR0109") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/f0c08f10-def0-4da0-ba6a-939899510312"
-      (reference "#PWR0110") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/d765d175-778b-4249-a905-494b00f64859"
-      (reference "#PWR0111") (unit 1) (value "GND") (footprint "")
-    )
     (path "/ed129a6a-8d89-430f-9034-9687e4734062"
       (reference "#PWR0112") (unit 1) (value "GND") (footprint "")
     )
@@ -1677,26 +1659,44 @@
     (path "/e60dd27d-8513-4417-82c8-421c9876b068"
       (reference "#PWR0114") (unit 1) (value "+24V") (footprint "")
     )
-    (path "/948f79b1-0da4-425f-a4fb-aceb11be0fee"
-      (reference "#PWR0115") (unit 1) (value "GND") (footprint "")
+    (path "/27f7733e-4704-40e7-9c45-a089cfe3fdd5"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
-    (path "/b276c9dd-f95e-4f4f-9be2-a04c71e65948"
-      (reference "#PWR0116") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/97ba3b00-e359-4523-9ceb-a0fa21e9dbb4"
-      (reference "#PWR0117") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/8c668f54-25c9-46cd-85e7-98b37f5e2a01"
-      (reference "#PWR0118") (unit 1) (value "+24V") (footprint "")
-    )
-    (path "/deebf056-fba9-4e97-83a2-b62a24668984"
-      (reference "#PWR0119") (unit 1) (value "+24V") (footprint "")
-    )
-    (path "/d70ba85b-a312-474b-a7c5-03eb6692b740"
-      (reference "#PWR0120") (unit 1) (value "GND") (footprint "")
+    (path "/4d846c49-982c-4289-ae4f-53e45c0790b5"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
     (path "/7aa0a08b-89bd-458b-8257-da6cbcf5aef0"
-      (reference "#PWR0121") (unit 1) (value "+24V") (footprint "")
+      (reference "#PWR?") (unit 1) (value "+24V") (footprint "")
+    )
+    (path "/8c668f54-25c9-46cd-85e7-98b37f5e2a01"
+      (reference "#PWR?") (unit 1) (value "+24V") (footprint "")
+    )
+    (path "/948f79b1-0da4-425f-a4fb-aceb11be0fee"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/97ba3b00-e359-4523-9ceb-a0fa21e9dbb4"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/b276c9dd-f95e-4f4f-9be2-a04c71e65948"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/d70ba85b-a312-474b-a7c5-03eb6692b740"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/d765d175-778b-4249-a905-494b00f64859"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/deebf056-fba9-4e97-83a2-b62a24668984"
+      (reference "#PWR?") (unit 1) (value "+24V") (footprint "")
+    )
+    (path "/ee8376a4-af6e-47eb-94af-facab0cdc408"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/f0c08f10-def0-4da0-ba6a-939899510312"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/fd28b75c-5734-44e5-a079-dcc55d21e5e1"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
     (path "/0a1224e3-a4fe-4837-9e52-063a232f85ab"
       (reference "LED1") (unit 1) (value "JB2835BWT-G-H40EA0000-N0000001") (footprint "2835-library:JB2835BWTGH40EA0000N0000001")
@@ -1704,29 +1704,11 @@
     (path "/19213bc9-8443-4807-8208-0ad53f45c7a5"
       (reference "LED2") (unit 1) (value "JB2835BWT-G-H40EA0000-N0000001") (footprint "2835-library:JB2835BWTGH40EA0000N0000001")
     )
-    (path "/885b7918-6fc0-4356-a9c4-4493dc8395b7"
-      (reference "LED3") (unit 1) (value "JB2835BWT-G-H40EA0000-N0000001") (footprint "2835-library:JB2835BWTGH40EA0000N0000001")
-    )
-    (path "/3f56a0eb-c219-4c1d-a17b-7410e1eff383"
-      (reference "LED4") (unit 1) (value "JB2835BWT-G-H40EA0000-N0000001") (footprint "2835-library:JB2835BWTGH40EA0000N0000001")
-    )
-    (path "/1e13d6b0-17d8-4f6b-92bc-eb021880cd51"
-      (reference "LED5") (unit 1) (value "JB2835BWT-G-H40EA0000-N0000001") (footprint "2835-library:JB2835BWTGH40EA0000N0000001")
-    )
-    (path "/27a9d1e1-420e-4ba3-851a-0d64ecd77756"
-      (reference "LED6") (unit 1) (value "JB2835BWT-G-H40EA0000-N0000001") (footprint "2835-library:JB2835BWTGH40EA0000N0000001")
-    )
-    (path "/4db4a59c-fada-4171-b18f-1a067f42aac4"
-      (reference "LED7") (unit 1) (value "JB2835BWT-G-H40EA0000-N0000001") (footprint "2835-library:JB2835BWTGH40EA0000N0000001")
-    )
     (path "/6f734498-9fea-4aaa-ac1d-23313375ac78"
       (reference "LED8") (unit 1) (value "JB2835BWT-G-H40EA0000-N0000001") (footprint "2835-library:JB2835BWTGH40EA0000N0000001")
     )
     (path "/2a361ae9-0909-4196-ab77-d22805df32c0"
       (reference "LED9") (unit 1) (value "JB2835BWT-G-H40EA0000-N0000001") (footprint "2835-library:JB2835BWTGH40EA0000N0000001")
-    )
-    (path "/86eb168b-7396-4f91-9918-7be98c740008"
-      (reference "LED10") (unit 1) (value "JB2835BWT-G-H40EA0000-N0000001") (footprint "2835-library:JB2835BWTGH40EA0000N0000001")
     )
     (path "/d74c9edb-8ea9-4aae-baa9-7e4e40624ca8"
       (reference "LED15") (unit 1) (value "JB2835BWT-G-H40EA0000-N0000001") (footprint "2835-library:JB2835BWTGH40EA0000N0000001")
@@ -1757,6 +1739,24 @@
     )
     (path "/ecdeb1b5-99b1-4291-b0c0-b07ea5ec6b30"
       (reference "LED44") (unit 1) (value "JB2835BWT-G-H40EA0000-N0000001") (footprint "2835-library:JB2835BWTGH40EA0000N0000001")
+    )
+    (path "/1e13d6b0-17d8-4f6b-92bc-eb021880cd51"
+      (reference "LED?") (unit 1) (value "JB2835BWT-G-H40EA0000-N0000001") (footprint "2835-library:JB2835BWTGH40EA0000N0000001")
+    )
+    (path "/27a9d1e1-420e-4ba3-851a-0d64ecd77756"
+      (reference "LED?") (unit 1) (value "JB2835BWT-G-H40EA0000-N0000001") (footprint "2835-library:JB2835BWTGH40EA0000N0000001")
+    )
+    (path "/3f56a0eb-c219-4c1d-a17b-7410e1eff383"
+      (reference "LED?") (unit 1) (value "JB2835BWT-G-H40EA0000-N0000001") (footprint "2835-library:JB2835BWTGH40EA0000N0000001")
+    )
+    (path "/4db4a59c-fada-4171-b18f-1a067f42aac4"
+      (reference "LED?") (unit 1) (value "JB2835BWT-G-H40EA0000-N0000001") (footprint "2835-library:JB2835BWTGH40EA0000N0000001")
+    )
+    (path "/86eb168b-7396-4f91-9918-7be98c740008"
+      (reference "LED?") (unit 1) (value "JB2835BWT-G-H40EA0000-N0000001") (footprint "2835-library:JB2835BWTGH40EA0000N0000001")
+    )
+    (path "/885b7918-6fc0-4356-a9c4-4493dc8395b7"
+      (reference "LED?") (unit 1) (value "JB2835BWT-G-H40EA0000-N0000001") (footprint "2835-library:JB2835BWTGH40EA0000N0000001")
     )
     (path "/7a6c7535-50d8-40a2-b546-4877a3982c75"
       (reference "TP1") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_D3.0mm")
